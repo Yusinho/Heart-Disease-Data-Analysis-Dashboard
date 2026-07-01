@@ -252,9 +252,7 @@ This nuance doesn't diminish the dashboard's value as an operational/demographic
 
 ## 👤 Author
 
-**Yusuf Shotunde**
-*Data Analyst*
-*(LinkedIn- www.linkedin.com/in/yusuf-shotunde / GitHub- https://github.com/Yusinho)*
+*(Yusuf Shotunde, LinkedIn: www.linkedin.com/in/yusuf-shotunde / GitHub: https://github.com/Yusinho / CV: https://github.com/Yusinho/my-portfolio/blob/main/Yusuf_Lanre_Shotunde_CV.pdf )*
 
 ---
 
