@@ -2,7 +2,7 @@
 
 ### A Power BI Cardiovascular Risk Intelligence Project | California Hospital Association (Simulated)
 
-**By Yusuf Shotunde — Data Scientist**
+**By Yusuf Shotunde — Data Analyst**
 
 ---
 
